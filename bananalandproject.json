@@ -1,0 +1,37 @@
+{
+  "project": {
+    "name": "Project Bananaland Connect",
+    "description": "A covert operation to connect Bananaland with 
+SuaveCell's top-notch telecommunications network",
+    "status": "In progress",
+    "stakeholders": [
+      {
+        "country": "Bananaland",
+        "role": "Client",
+        "remarks": "Prefers payment in unmarked bills"
+      },
+      {
+        "company": "SuaveCell",
+        "role": "Service provider",
+        "remarks": "Must maintain secrecy about this project"
+      }
+    ],
+    "services": [
+      {
+        "serviceName": "TropiTalk",
+        "package": "Custom"
+      },
+      {
+        "serviceName": "WaveRider",
+        "package": "Custom"
+      },
+      {
+        "serviceName": "Sunray Satellite",
+        "package": "Universal Uplink",
+        "specialInstruction": "All communication must be in code. Use 
+banana varieties as code words"
+      }
+    ]
+  }
+}
+
