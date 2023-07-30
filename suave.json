@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "Authentication successful.",
+    "data": {
+        "user": {
+            "username": "<username>",
+            "name": "John Doe",
+            "role": "Employee",
+            "department": "Marketing",
+            "accessLevel": "Normal"
+        },
+        "token": "<token>"
+    }
+}
+
