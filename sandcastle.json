@@ -1,0 +1,50 @@
+{
+  "project": {
+    "name": "Project Sandcastle",
+    "description": "The Top Secret Network Map of SuaveCell. Absolutely No 
+Peeking!",
+    "status": "Exposed on a GitHub repository near you!",
+    "networkElements": [
+      {
+        "name": "Big Shack",
+        "type": "Main Server",
+        "description": "The Big Kahuna of all Shacks. Holds all the secret 
+recipes."
+      },
+      {
+        "name": "Little Shack",
+        "type": "Backup Server",
+        "description": "The Mini Kahuna. Holds the secret recipes when Big 
+Shack is surfing."
+      },
+      {
+        "name": "Beach Ball",
+        "type": "Firewall",
+        "description": "The bounciest security measure. Good luck getting 
+past it!"
+      },
+      {
+        "name": "Towel",
+        "type": "User Terminal",
+        "description": "Where our employees lay back and work on their 
+tan... I mean, tasks!"
+      },
+      {
+        "name": "Cooler",
+        "type": "Data Center",
+        "description": "Keeps our data as cool as a refreshing tropical 
+drink."
+      },
+      {
+        "name": "Beach Umbrella",
+        "type": "VPN Server",
+        "description": "For when our data needs a shady place to relax."
+      }
+    ],
+    "remarks": [
+      "Why is this on GitHub??",
+      "Seriously Bart, what were you thinking??"
+    ]
+  }
+}
+
