@@ -1,0 +1,24 @@
+{
+  "service": "WaveRider",
+  "packages": [
+    {
+      "packageName": "Surfer Special",
+      "coverage": "standard",
+      "speed": "Riding the waves @ dolphin speed",
+      "bonus": "Get the daily surf report on your phone"
+    },
+    {
+      "packageName": "Oceanic Overdrive",
+      "coverage": "extended",
+      "speed": "Ride the biggest waves @ shark speed",
+      "bonus": "Priority reservation for wave-based charging slots"
+    },
+    {
+      "packageName": "Aquatic Apex",
+      "coverage": "full",
+      "speed": "Ride the tsunami @ whale speed",
+      "bonus": "Get a free SuaveCell-branded surfboard"
+    }
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "service": "Sunray Satellite",
+  "packages": [
+    {
+      "packageName": "Orbital Oasis",
+      "coverage": "earth orbit",
+      "speed": "SpaceX grade speed",
+      "bonus": "Free access to satellite imagery of your house"
+    },
+    {
+      "packageName": "Galactic Gateway",
+      "coverage": "solar system",
+      "speed": "Voyager level speed",
+      "bonus": "Your name engraved on our next satellite"
+    },
+    {
+      "packageName": "Universal Uplink",
+      "coverage": "Milky Way galaxy",
+      "speed": "Lightyear speed",
+      "bonus": "Win a chance to name our next galaxy"
+    }
+  ]
+}
+

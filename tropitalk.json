@@ -1,0 +1,27 @@
+{
+  "service": "TropiTalk",
+  "packages": [
+    {
+      "packageName": "Coconut Call",
+      "voice": "unlimited local calls",
+      "text": "100 international texts",
+      "data": "2GB @ 4G speed",
+      "bonus": "Free coconut water at SuaveCell stores"
+    },
+    {
+      "packageName": "PalmTalk Premium",
+      "voice": "unlimited local and international calls",
+      "text": "unlimited texts",
+      "data": "10GB @ 5G speed",
+      "bonus": "Priority access to SuaveCell's hammock lounges"
+    },
+    {
+      "packageName": "Islander Infinite",
+      "voice": "unlimited inter-island calls",
+      "text": "unlimited carrier pigeon messages",
+      "data": "Infinite data @ turtle speed",
+      "bonus": "Discounted seashell coin purchases"
+    }
+  ]
+}
+
